@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: 319c745c2db01e1428d33122de6f4b65
+timeCreated: 1466073367
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Fly_0
+    21300002: Fly_1
+    21300004: Fly_2
+    21300006: Fly_3
+    21300008: Fly_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Fly_0
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 199
+        width: 413
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79.094284, y: 87.07715}
+        - {x: -80.905716, y: 87.07715}
+        - {x: -97.905716, y: 81.07715}
+        - {x: -116.905716, y: 46.07715}
+        - {x: -116.905716, y: 21.077148}
+        - {x: -100.905716, y: 3.0771484}
+        - {x: 15.094284, y: -70.92285}
+        - {x: 51.094284, y: -85.92285}
+        - {x: 84.094284, y: -85.92285}
+        - {x: 82.094284, y: -45.92285}
+        - {x: 83.094284, y: -43.92285}
+        - {x: 82.094284, y: -43.92285}
+        - {x: 83.094284, y: -45.92285}
+        - {x: 88.094284, y: -83.92285}
+        - {x: 92.094284, y: -85.92285}
+        - {x: 105.094284, y: -85.92285}
+        - {x: 116.094284, y: -59.92285}
+        - {x: 117.094284, y: -55.92285}
+        - {x: 117.094284, y: 58.07715}
+    - name: Fly_1
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 199
+        width: 413
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104.065735, y: 83.07715}
+        - {x: 50.065735, y: 74.07715}
+        - {x: 30.065735, y: 85.07715}
+        - {x: -99.934265, y: 85.07715}
+        - {x: -116.934265, y: 48.07715}
+        - {x: -116.934265, y: 21.077148}
+        - {x: -100.934265, y: 3.0771484}
+        - {x: 15.065735, y: -70.92285}
+        - {x: 51.065735, y: -85.92285}
+        - {x: 84.065735, y: -85.92285}
+        - {x: 82.065735, y: -45.92285}
+        - {x: 83.065735, y: -43.92285}
+        - {x: 82.065735, y: -43.92285}
+        - {x: 83.065735, y: -45.92285}
+        - {x: 88.065735, y: -83.92285}
+        - {x: 92.065735, y: -85.92285}
+        - {x: 109.065735, y: -85.92285}
+        - {x: 110.065735, y: -84.92285}
+        - {x: 117.065735, y: -51.92285}
+        - {x: 117.065735, y: 24.077148}
+    - name: Fly_2
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 199
+        width: 413
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.03717, y: 85.07715}
+        - {x: -45.96283, y: 85.07715}
+        - {x: -94.96283, y: 77.07715}
+        - {x: -116.96283, y: 54.07715}
+        - {x: -116.96283, y: 13.077148}
+        - {x: -81.96283, y: -10.922852}
+        - {x: 15.03717, y: -70.92285}
+        - {x: 51.03717, y: -85.92285}
+        - {x: 84.03717, y: -85.92285}
+        - {x: 82.03717, y: -45.92285}
+        - {x: 83.03717, y: -43.92285}
+        - {x: 82.03717, y: -43.92285}
+        - {x: 83.03717, y: -45.92285}
+        - {x: 88.03717, y: -83.92285}
+        - {x: 92.03717, y: -85.92285}
+        - {x: 107.03717, y: -85.92285}
+        - {x: 117.03717, y: -73.92285}
+        - {x: 117.03717, y: 48.07715}
+    - name: Fly_3
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 199
+        width: 413
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.991455, y: 85.07715}
+        - {x: -94.991455, y: 77.07715}
+        - {x: -116.991455, y: 43.07715}
+        - {x: -116.991455, y: -2.9228516}
+        - {x: -111.991455, y: -22.922852}
+        - {x: -0.9914551, y: -85.92285}
+        - {x: 70.008545, y: -85.92285}
+        - {x: 75.008545, y: -69.92285}
+        - {x: 82.008545, y: -45.92285}
+        - {x: 83.008545, y: -43.92285}
+        - {x: 82.008545, y: -43.92285}
+        - {x: 83.008545, y: -45.92285}
+        - {x: 88.008545, y: -83.92285}
+        - {x: 90.008545, y: -85.92285}
+        - {x: 113.008545, y: -85.92285}
+        - {x: 117.008545, y: -78.92285}
+        - {x: 117.008545, y: 39.07715}
+        - {x: 53.008545, y: 85.07715}
+    - name: Fly_4
+      rect:
+        serializedVersion: 2
+        x: 3066
+        y: 199
+        width: 413
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99.0199, y: 85.07715}
+        - {x: -100.0199, y: 84.07715}
+        - {x: -117.0199, y: 50.07715}
+        - {x: -117.0199, y: 10.077148}
+        - {x: -107.0199, y: -11.922852}
+        - {x: 15.980103, y: -85.92285}
+        - {x: 61.980103, y: -85.92285}
+        - {x: 74.9801, y: -69.92285}
+        - {x: 81.9801, y: -45.92285}
+        - {x: 82.9801, y: -43.92285}
+        - {x: 81.9801, y: -43.92285}
+        - {x: 82.9801, y: -45.92285}
+        - {x: 87.9801, y: -83.92285}
+        - {x: 89.9801, y: -85.92285}
+        - {x: 116.9801, y: -85.92285}
+        - {x: 116.9801, y: 85.07715}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
